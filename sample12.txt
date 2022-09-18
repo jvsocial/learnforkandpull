@@ -1,1 +1,7 @@
 Create sample12.txt file .
+vi sample.txt
+Press i
+Type in a few lines. 
+Press ESC
+Press : 
+Press wq! and Hit Enter
